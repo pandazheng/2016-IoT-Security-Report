@@ -15,6 +15,7 @@ http://uberhip.com/rtlsdr/osx/gqrx/2015/10/17/OS_X_El_Capitan_GQRX_HackRF/
 http://gqrx.dk/tag/mac-os-x  
 https://cn0xroot.com/2017/04/  
 http://lab.seclover.com/%E5%9C%A8debian%E4%B8%8B%E6%90%AD%E5%BB%BAhackrf%E4%BD%BF%E7%94%A8%E7%8E%AF%E5%A2%83/  
+http://blog.csdn.net/opensourcesdr/article/details/51911220  
 
 
 
