@@ -18,6 +18,8 @@ http://lab.seclover.com/%E5%9C%A8debian%E4%B8%8B%E6%90%AD%E5%BB%BAhackrf%E4%BD%B
 http://blog.csdn.net/opensourcesdr/article/details/51911220  
 http://www.hackrf.net/hackrf%E4%B8%8Egnuradio%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/  
 http://blog.csdn.net/WXN30/article/details/50607615  
+http://www.freebuf.com/articles/wireless/77819.html  
+
 
 
 
