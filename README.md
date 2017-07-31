@@ -26,5 +26,10 @@ http://calebmadrigal.com/raspberry-pi-home-security-system/
 
 # iot  
 https://github.com/phodal/iot  
+https://github.com/nladuo/IoT-Firstep  
+https://github.com/exploitprotocol/IoT-Security-Wiki  
+https://github.com/SOLenG/IoT-Box_Security  
+https://github.com/hxp2k6/IOT-Security  
+https://github.com/JonZeolla/lab-InternetofInsecurity  
 
 
